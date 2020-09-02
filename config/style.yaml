@@ -7,13 +7,13 @@ color:
     hueOffset: 180
   saturation: 21
   lightness:
-    lighter: 93
+    lighter: 80
     light: 66
     mid: 47
     dark: 33
     darker: 19
   foreground: '#333'
-  background: '#FFF'
+  background: 'hsla(255,100%,100%,.5)'
 font: Montserrat
 font_display: Montserrat
 font_code: monospace
