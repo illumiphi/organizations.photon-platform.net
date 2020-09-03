@@ -20,4 +20,12 @@ Developing content and publishing it to all the necessary touch points is a frac
 
 ===
 
+# Develop, Publish, and Manage Content for Public Organization
+# Open Source Solution Stack you can own end to end
+## rapid deployment 
+## reliable well support platforms
+# System of Record for all published info
+# rapid keyboard centric development
+# Media Management
+
 
